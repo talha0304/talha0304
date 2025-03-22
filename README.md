@@ -1,86 +1,30 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   <br/>
-  <h1>👋 Hi, I'm Talha Saleem</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;PHP+Laravel+Specialist;Golang+Enthusiast;REST+API+Architect;Problem+Solver" alt="Typing SVG" />
+  <h1>👨💻 Talha Saleem | Software Engineer</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Laravel+Specialist;Golang+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20Web%20Excellence&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Turning+Ideas+Into+Reality&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
 
-## <div align="center">💻 Tech Stack</div>
+## <div align="center">🚀 About Me</div>
 
-<div align="center">
-  <h3>🛠 Core Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,golang,mysql,mongodb,linux" alt="Core Tech" />
-  
-  <h3>🌐 Frontend Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Frontend" />
-  
-  <h3>⚙️ Backend & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=redis,nginx,aws,docker,git" alt="Backend" />
-  
-  <h3>🧠 Problem Solving</h3>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Expert-2C8EBB?style=for-the-badge" />
-</div>
-
-## <div align="center">🚀 Featured Projects</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Laravel Realtime Chat</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/600x300?text=Laravel+Reverb+Project" width="100%" />
-        <p>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
-        </p>
-        <p>Real-time chat application using Laravel Reverb with WebSocket integration and message queuing</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Go REST API</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/600x300?text=Golang+Microservices" width="100%" />
-        <p>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens" />
-        </p>
-        <p>High-performance REST API built with Golang featuring JWT authentication and MySQL optimization</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## <div align="center">📈 GitHub Stats</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtalhasaleem0304&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtalhasaleem0304&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhasaleem0304&layout=compact&theme=tokyonight" />
-</div>
-
-## <div align="center">🤝 Connect With Me</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/talha-saleem-ba2360283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/mtalhasaleem0304/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://x.com/CodeWall99">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
-</div>
+```diff
++ 💼 Software Engineer @TechInnovators (2+ years experience)
++ 🔭 Currently building scalable e-commerce solutions
++ 🌱 Mastering distributed systems & microservices architecture
++ 🏆 LeetCode Knight (600+ problems solved)
++ 📚 Technical Blog Writer (50+ articles published)
+! 🔧 Open Source Contributor (Laravel ecosystem)
+<div align="center">🛠 Technical Arsenal</div>
+<div align="center"> <table> <tr> <td align="center" width="25%"> <strong>Frontend</strong><br> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react"><br> HTML5 | CSS3 | JavaScript<br> Tailwind | Bootstrap | Livewire </td> <td align="center" width="25%"> <strong>Backend</strong><br> <img src="https://skillicons.dev/icons?i=php,laravel,golang,nodejs"><br> PHP/Laravel | Golang<br> REST APIs | Microservices </td> <td align="center" width="25%"> <strong>Databases</strong><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres"><br> MySQL | MongoDB | Redis<br> Database Design | Optimization </td> <td align="center" width="25%"> <strong>DevOps</strong><br> <img src="https://skillicons.dev/icons?i=linux,aws,docker,nginx,git"><br> AWS | Docker | Nginx<br> CI/CD | Bash Scripting </td> </tr> </table> </div>
+<div align="center">🌟 Featured Projects</div>
+<table> <tr> <td width="50%" valign="top"> <h3 align="center">🔥 E-Commerce Platform (Laravel)</h3> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"> </a> <p> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Livewire-4B5563?style=flat&logo=livewire&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> </p> <p>Full-featured e-commerce platform with real-time updates using Laravel Livewire and payment gateway integration</p> </div> </td> <td width="50%" valign="top"> <h3 align="center">⚡ URL Shortener (Golang)</h3> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"> </a> <p> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> </p> <p>High-performance URL shortening service with 1M+ daily requests handling using Golang and Redis</p> </div> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📊 Analytics Dashboard (React)</h3> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"> </a> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"> </p> <p>Real-time business analytics dashboard with data visualization using React and Chart.js</p> </div> </td> <td width="50%" valign="top"> <h3 align="center">🔐 Auth Service (JWT)</h3> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"> </a> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> </p> <p>Secure authentication microservice with JWT and OAuth2 integration</p> </div> </td> </tr> </table>
+<div align="center">📊 Development Analytics</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=talha0304&theme=gruvbox&column=7&no-frame=true&margin-w=15" width="100%" alt="Trophy" /> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talha0304&show_icons=true&theme=radical&count_private=true&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talha0304&theme=radical&hide_border=true" /> </p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha0304&layout=compact&theme=radical&hide_border=true" width="58%" /> </div>
+<div align="center">🧩 LeetCode Progress</div>
+<div align="center"> <a href="https://leetcode.com/u/mtalhasaleem0304/"> <img src="https://leetcard.jacoblin.cool/mtalhasaleem0304?theme=dark&font=JetBrains%20Mono&ext=contest" width="60%" /> </a> </div>
+<div align="center">📫 Let's Connect</div>
+<div align="center"> <a href="https://www.linkedin.com/in/talha-saleem-ba2360283/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/mtalhasaleem0304/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://x.com/CodeWall99"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:talha.saleem@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=talha0304&style=for-the-badge&color=blueviolet" alt="Profile Views" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" /> </div>
