@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   <br/>
-  <h1>👨🏻‍💻 Talha Saleem | Software Engineer</h1>
+  <h1>👨‍💻 Talha Saleem | Software Engineer</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Laravel+Specialist;Golang+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
@@ -13,32 +13,32 @@
 
 ```diff
 + 💼 Software Engineer @TechInnovators (2+ years experience)
-+ 📝 Currently building scalable e-commerce solutions
++ 🔭 Currently building scalable e-commerce solutions
 + 🌱 Mastering distributed systems & microservices architecture
 + 🏆 LeetCode Knight (600+ problems solved)
 + 📚 Technical Blog Writer (50+ articles published)
-! 🛠 Open Source Contributor (Laravel ecosystem)
+! 🔧 Open Source Contributor (Laravel ecosystem)
 ```
 
-## 🛠 Technical Arsenal
+## 🛠 Technical Stack
 
 <div align="center">
 <table>
 <tr>
   <td align="center" width="25%"><strong>Frontend</strong><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react"/><br>
     HTML5 | CSS3 | JavaScript | TypeScript | Tailwind | Bootstrap | Livewire
   </td>
   <td align="center" width="25%"><strong>Backend</strong><br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,golang,nodejs"><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,golang,nodejs"/><br>
     PHP/Laravel | Golang/Gin | REST APIs | Microservices
   </td>
   <td align="center" width="25%"><strong>Databases</strong><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/><br>
     MySQL | MongoDB | Database Design | Optimization
   </td>
   <td align="center" width="25%"><strong>DevOps</strong><br>
-    <img src="https://skillicons.dev/icons?i=linux,git,gitlab"><br>
+    <img src="https://skillicons.dev/icons?i=linux,git,gitlab"/><br>
     Linux | GitHub | GitLab
   </td>
 </tr>
@@ -50,8 +50,12 @@
 ### 🔥 My Public Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=MailCraft-AI-Agent-&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=AstraPhpMvc&theme=radical" />
+  <a href="https://github.com/talha0304/MailCraft-AI-Agent-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=MailCraft-AI-Agent-&theme=radical" />
+  </a>
+  <a href="https://github.com/talha0304/AstraPhpMvc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=AstraPhpMvc&theme=radical" />
+  </a>
 </div>
 
 ## 📊 Development Analytics
@@ -73,7 +77,7 @@
   </a>
 </div>
 
-## 📧 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/talha-saleem-ba2360283/">
