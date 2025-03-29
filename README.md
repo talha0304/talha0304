@@ -38,8 +38,8 @@
     MySQL | MongoDB | Database Design | Optimization
   </td>
   <td align="center" width="25%"><strong>DevOps</strong><br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,git"><br>
-    Docker | CI/CD | Bash Scripting
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,gitlab"><br>
+    Linux | GitHub | GitLab
   </td>
 </tr>
 </table>
