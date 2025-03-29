@@ -26,20 +26,20 @@
 <table>
 <tr>
   <td align="center" width="25%"><strong>Frontend</strong><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react"><br>
-    HTML5 | CSS3 | JavaScript | Tailwind | Bootstrap | Livewire
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react"><br>
+    HTML5 | CSS3 | JavaScript | TypeScript | Tailwind | Bootstrap | Livewire
   </td>
   <td align="center" width="25%"><strong>Backend</strong><br>
     <img src="https://skillicons.dev/icons?i=php,laravel,golang,nodejs"><br>
-    PHP/Laravel | Golang | REST APIs | Microservices
+    PHP/Laravel | Golang/Gin | REST APIs | Microservices
   </td>
   <td align="center" width="25%"><strong>Databases</strong><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres"><br>
-    MySQL | MongoDB | Redis | Database Design | Optimization
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"><br>
+    MySQL | MongoDB | Database Design | Optimization
   </td>
   <td align="center" width="25%"><strong>DevOps</strong><br>
-    <img src="https://skillicons.dev/icons?i=linux,aws,docker,nginx,git"><br>
-    AWS | Docker | Nginx | CI/CD | Bash Scripting
+    <img src="https://skillicons.dev/icons?i=linux,docker,git"><br>
+    Docker | CI/CD | Bash Scripting
   </td>
 </tr>
 </table>
@@ -47,38 +47,13 @@
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-  <td width="50%" valign="top">
-    <h3 align="center">🔥 E-Commerce Platform (Laravel)</h3>
-    <div align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-        <img src="https://img.shields.io/badge/Livewire-4B5563?style=flat&logo=livewire&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-      </p>
-      <p>Full-featured e-commerce platform with real-time updates using Laravel Livewire and payment gateway integration</p>
-    </div>
-  </td>
-  <td width="50%" valign="top">
-    <h3 align="center">⚡ URL Shortener (Golang)</h3>
-    <div align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github">
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-      </p>
-      <p>High-performance URL shortening service with 1M+ daily requests handling using Golang and Redis</p>
-    </div>
-  </td>
-</tr>
-</table>
+### 🔥 My Public Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=repo1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=repo2&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talha0304&repo=repo3&theme=radical" />
+</div>
 
 ## 📊 Development Analytics
 
@@ -111,7 +86,7 @@
   <a href="https://x.com/CodeWall99">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:talha.saleem@example.com">
+  <a href="mailto:mtalhasaleem0304@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
