@@ -9,16 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Turning+Ideas+Into+Reality&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
 
-## 🚀 About Me
 
-```diff
-+ 💼 Software Engineer @TechInnovators (2+ years experience)
-+ 🔭 Currently building scalable e-commerce solutions
-+ 🌱 Mastering distributed systems & microservices architecture
-+ 🏆 LeetCode Knight (600+ problems solved)
-+ 📚 Technical Blog Writer (50+ articles published)
-! 🔧 Open Source Contributor (Laravel ecosystem)
-```
 
 ## 🛠 Technical Stack
 
