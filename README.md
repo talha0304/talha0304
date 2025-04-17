@@ -2,14 +2,12 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   <br/>
   <h1>👨‍💻 Talha Saleem | Software Engineer</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Laravel+Specialist;Golang+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Laravel+Specialist;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Turning+Ideas+Into+Reality&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
-
-
 
 ## 🛠 Technical Stack
 
@@ -21,12 +19,12 @@
     HTML5 | CSS3 | JavaScript | TypeScript | Tailwind | Bootstrap | Livewire
   </td>
   <td align="center" width="25%"><strong>Backend</strong><br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,golang,nodejs"/><br>
-    PHP/Laravel | Golang/Gin | REST APIs | Microservices
+    <img src="https://skillicons.dev/icons?i=php,laravel,dotnet"/><br>
+    PHP/Laravel | C# .NET | REST APIs | Microservices
   </td>
   <td align="center" width="25%"><strong>Databases</strong><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/><br>
-    MySQL | MongoDB | Database Design | Optimization
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite"/><br>
+    MySQL | MongoDB | PostgreSQL | SQL Server | Database Design | Optimization
   </td>
   <td align="center" width="25%"><strong>DevOps</strong><br>
     <img src="https://skillicons.dev/icons?i=linux,git,gitlab"/><br>
